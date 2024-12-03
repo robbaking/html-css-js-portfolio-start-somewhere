@@ -180,20 +180,22 @@ section {
 
 .section__text p {
   font-weight: 600;
-  background-color: transparent; 
+  background-color: transparent;
 }
 
 .section__text__p1 {
   text-align: center;
+  background-color: transparent;
 }
 .section__text__p2 {
   font-size: 1.75rem;
   margin-bottom: 1rem;
+
+  background-color: transparent;
 }
 .title {
   font-size: 3rem;
   text-align: center;
-  
 }
 
 #socials-container {
@@ -236,17 +238,16 @@ section {
   cursor: pointer;
 }
 
-.btn-color-1,   
+.btn-color-1,
 .btn-color-2:hover {
   background: rgb(53, 53, 53);
   color: white;
 }
 
 .btn-color-1:hover {
-    background: rgb(144, 144, 144);
+  background: rgb(144, 144, 144);
 }
 
-
 .btn-container {
-    gap: 1rem;
+  gap: 1rem;
 }
